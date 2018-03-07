@@ -189,8 +189,7 @@
 		},
 		{
 			"scope": [
-				"variable",
-				"variable.parameter"
+				"variable"
 			],
 			"settings": {
 				"fontStyle": "",
